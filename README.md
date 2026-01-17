@@ -1,7 +1,7 @@
 # Data Science Topics
 This repository showcases **end-to-end, production-style data science projects** focused on solving real business problems using machine learning, forecasting, experimentation, deep learning, and modern AI systems.
 
-The goal of this portfolio is to demonstrate **Data Scientist II–level capability**:
+The goal of this portfolio is to demonstrate:
 - Translating business problems into data science solutions
 - Building and evaluating models beyond accuracy
 - Designing experiments and forecasting systems
